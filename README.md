@@ -1,5 +1,6 @@
 # Git_Github_Basics
-Git Basics for every Devops Engineer
+
+![Alt Text](p2/featured.jpg)
 
 ### What is Git ?
 
@@ -8,7 +9,6 @@ Git Basics for every Devops Engineer
 
 ### **Initializing a Git Repository**
 
-![Alt Text](p2/featured.jpg)
 
 `git init` : The command git init is used to create an empty Git repository.
 
