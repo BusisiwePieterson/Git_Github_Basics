@@ -1,7 +1,7 @@
 # Git_Github_Basics
 
-![Images](p2/featured.jpg)
-![Image](p2/featured.jpg)
+![Images](images/featured.jpg)
+
 
 ### What is Git ?
 
