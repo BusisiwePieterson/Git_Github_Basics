@@ -3,7 +3,7 @@ Git Basics for every Devops Engineer
 
 ### What is Git ?
 
-> Git is a widely used version control system for tracking changes in computer files.Git is one of the most sought after DevOps tools used to handle small and large projects efficiently. The tool enables collaboration among different people in different parts of the same project.
+> Git is a widely used version control system for tracking changes in computer files. Git is one of the most sought after DevOps tools used to handle small and large projects efficiently. The tool enables collaboration among different people in different parts of the same project.
 
 
 ### **Initializing a Git Repository**
@@ -19,20 +19,34 @@ Git Basics for every Devops Engineer
 `git commit` : The commit command makes sure that the changes are saved to the local repository.
   - **-m** : allows you to write a commit message to describe the commit that you have made.
 
+
 ![Alt Text](p2/Screenshot_2.png)
 
+#### *Working with Branches*
+
 `git checkout` : The git checkout command is used to switch branches, whenever the work is to be started on a different branch.
+
 `git checkout -b <branch name>` : Checkout and create a new branch with that name
 
 ![Alt Text](p2/Screenshot_3.png)
 
+`git branch` : This command is used to list all the branches in your local git repository
+
 ![Alt Text](p2/Screenshot_4.png)
+
+`git checkout` : 
 
 ![Alt Text](p2/Screenshot_5.png)
 
+`git merge` : 
+
 ![Alt Text](p2/Screenshot_6.png)
 
+`git branch -d <branch_name` : 
+
 ![Alt Text](p2/Screenshot_7.png)
+
+### **Collaboration and Remote Repositories**
 
 ![Alt Text](p2/Screenshot_8.png)
 
