@@ -1,6 +1,6 @@
 # Git_Github_Basics
 
-![Alt Text](p2/featured.jpg)
+![Alt Text](Git_Github_Basics/p2/featured.jpg)
 
 ### What is Git ?
 
