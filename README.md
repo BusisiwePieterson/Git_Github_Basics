@@ -42,7 +42,7 @@ Checkout can also be used to create a new branch.
 
 ### **Merging a Branch into another Branch**
 
-`git merge <branch_name>`
+`git merge <branch_name>` : The "merge" command is used to integrate changes from another branch
 
 ![Images](images/Screenshot_7.png)
 
@@ -54,7 +54,7 @@ Checkout can also be used to create a new branch.
 
 ### What is Github?
 
-We now know that git is but how will developers working remotely work on the same code base? This is where Github comes in. GitHub is a code hosting platform for collaboration and version control.
+We now know what git is but how will developers working remotely work on the same code base? This is where Github comes in. GitHub is a code hosting platform for collaboration and version control.
 
 Through GitHub, you can share your code with others, giving them the power to make revisions or edits on your various Git branches. This makes it possible for entire teams to work together on single projects in real-time. As changes are introduced, new branches are created, allowing the team to continue to revise the code without overwriting each other’s work. 
 
@@ -83,14 +83,12 @@ sign up to Github here https://github.com/
 
   > 1. Headings: To create a heading use the has symbol at the beginning of the line
 
-  `# Heading 1`
+  `# Heading 1` : # Heading 1
 
-  `## Heading 2`
+  `## Heading 2` : ## Heading 2
 
-  `### Heading 3`
-# Heading 1
-## Heading 2
-### Heading 3
+  `### Heading 3` : ### Heading 3
+
 
  > 2. Emphasis: asterics are used for italic
 
@@ -131,7 +129,7 @@ sign up to Github here https://github.com/
 
  *******
 
-                        # THE END !! 
+                             # THE END !! 
 
 
 
