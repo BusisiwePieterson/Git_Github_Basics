@@ -48,6 +48,8 @@ Checkout can also be used to create a new branch.
 
 `git branch -d <branch_name` : This command is used to delete a branch.
 
+![Images](images/Screenshot_9.png)
+
 ## **Collaboration and Remote Repositories**
 
 ### What is Github?
@@ -60,31 +62,76 @@ sign up to Github here https://github.com/
 
 ### Create your First Repository
 
-  1. click on the plus sign at the top right corner, in the dropdown menu select, new repository.
-  2. click the green button **(Create repository)** to create a repository
+  > 1. click on the plus sign at the top right corner, in the dropdown menu select, new repository.
+  > 2. click the green button **(Create repository)** to create a repository
 
 ![Images](images/Screenshot_8.png)
 
 ### Pushing your Local git Repo to your Remote Github Repository
 
-![Images](images/Screenshot_9.png)
+`git remote add origin <link to github repo>` : used to add a remote repository to your local Git repository. By providing the remote URL you establish a connection between your local and remote repo.
 
 ![Images](images/Screenshot_10.png)
 
+`git push origin <branch_name>` : git command that pushes a local branch to a remote repository.
+
+`git clone <link to remote repo>` : used to create a copy of a specific repository or branch within a repository.
+
 ![Images](images/Screenshot_11.png)
 
+## **Branch Management and Tagging**
+
+  > 1. Headings: To create a heading use the has symbol at the beginning of the line
+
+  `# Heading 1`
+
+  `## Heading 2`
+
+  `### Heading 3`
 # Heading 1
 ## Heading 2
 ### Heading 3
 
-*italics*
+ > 2. Emphasis: asterics are used for italic
 
-**bold**
+ `*italics*` - *italics*
+   
+ `**bold**` - **bold**
 
+ > 3. Lists: listing items, ordered and unordered
+
+ undordered list:
+
+ `- item 1` 
+
+ - item 1
+ - item 2
+ - item 3
+
+ ordered list:
+
+ 1. First item
+ 2. Second item
+ 3. Third item
+
+ > 4. Links: Used to create a hyperlink
+
+ visit `[darey.io]`(https://www.darey.io)
+
+ > 5. Images: To disply an image
 
 `![Alt Text](p2/project2.jpg)`
 
 ![Images](images/project2.jpg)
+
+ > 6. Code: To display code snippets, use backticks to enclose code.
+
+ `console.log('Hello World!)`
+
+
+ *******
+
+                        # THE END !! 
 
 
 
