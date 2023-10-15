@@ -83,7 +83,7 @@ sign up to Github here https://github.com/
 
   > 1. Headings: To create a heading use the hash symbol at the beginning of the line. 
 
-  `# Heading 1  
+  `# Heading 1` 
 
 # Heading 1
 ## Heading 2
