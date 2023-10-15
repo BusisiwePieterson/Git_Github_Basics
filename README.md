@@ -5,7 +5,7 @@
 
 ### What is Git ?
 
-> Git is a widely used version control system for tracking changes in computer files. Version control is like a savings program for your project. By tracking and logging the changes you make to your file or file sets over time, a version-control system gives you the power to review or even restore earlier versions. Version control takes snapshots of every revision to your project. You can then access these versions to compare or restore them as needed.
+Git is a widely used version control system for tracking changes in computer files. Version control is like a savings program for your project. By tracking and logging the changes you make to your file or file sets over time, a version-control system gives you the power to review or even restore earlier versions. Version control takes snapshots of every revision to your project. You can then access these versions to compare or restore them as needed.
 
 
 ### **Initializing a Git Repository**
@@ -49,6 +49,8 @@ Checkout can also be used to create a new branch.
 `git branch -d <branch_name` : This command is used to delete a branch.
 
 ## **Collaboration and Remote Repositories**
+
+### What is Github?
 
 We now know that git is but how will developers working remotely work on the same code base? This is where Github comes in. GitHub is a code hosting platform for collaboration and version control.
 
