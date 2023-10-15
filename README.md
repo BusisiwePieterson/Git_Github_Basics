@@ -81,14 +81,13 @@ sign up to Github here https://github.com/
 
 ## **Branch Management and Tagging**
 
-  > 1. Headings: To create a heading use the has symbol at the beginning of the line
+  > 1. Headings: To create a heading use the hash symbol at the beginning of the line. 
 
-  `# Heading 1` : # Heading 1
+  `# Heading 1  
 
-  `## Heading 2` : ## Heading 2
-
-  `### Heading 3` : ### Heading 3
-
+# Heading 1
+## Heading 2
+### Heading 3
 
  > 2. Emphasis: asterics are used for italic
 
