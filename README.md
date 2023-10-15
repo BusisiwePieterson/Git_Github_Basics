@@ -5,7 +5,7 @@
 
 ### What is Git ?
 
-> Git is a widely used version control system for tracking changes in computer files. Git is one of the most sought after DevOps tools used to handle small and large projects efficiently. The tool enables collaboration among different people in different parts of the same project.
+> Git is a widely used version control system for tracking changes in computer files. Version control is like a savings program for your project. By tracking and logging the changes you make to your file or file sets over time, a version-control system gives you the power to review or even restore earlier versions. Version control takes snapshots of every revision to your project. You can then access these versions to compare or restore them as needed.
 
 
 ### **Initializing a Git Repository**
@@ -25,9 +25,8 @@
 
 #### *Working with Branches*
 
-`git checkout` : The git checkout command is used to switch branches, whenever the work is to be started on a different branch.
-
-`git checkout -b <branch name>` : Checkout and create a new branch with that name
+`git checkout -b <branch name>` : The git checkout command is used to switch branches, whenever the work is to be started on a different branch.
+Checkout can also be used to create a new branch.
 
 
 ![Images](images/Screenshot_3.png)
@@ -51,7 +50,20 @@
 
 ## **Collaboration and Remote Repositories**
 
+We now know that git is but how will developers working remotely work on the same code base? This is where Github comes in. GitHub is a code hosting platform for collaboration and version control.
+
+Through GitHub, you can share your code with others, giving them the power to make revisions or edits on your various Git branches. This makes it possible for entire teams to work together on single projects in real-time. As changes are introduced, new branches are created, allowing the team to continue to revise the code without overwriting each other’s work. 
+
+sign up to Github here https://github.com/
+
+### Create your First Repository
+
+  1. click on the plus sign at the top right corner, in the dropdown menu select, new repository.
+  2. click the green button **(Create repository)** to create a repository
+
 ![Images](images/Screenshot_8.png)
+
+### Pushing your Local git Repo to your Remote Github Repository
 
 ![Images](images/Screenshot_9.png)
 
