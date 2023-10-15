@@ -29,25 +29,27 @@
 
 `git checkout -b <branch name>` : Checkout and create a new branch with that name
 
+
 ![Images](images/Screenshot_3.png)
 
 `git branch` : This command is used to list all the branches in your local git repository
 
-![Images](images/Screenshot_4.png)
-
-`git checkout` : 
 
 ![Images](images/Screenshot_5.png)
 
-`git merge` : 
+`git checkout <branch_name>` : Change into an existing branch
 
 ![Images](images/Screenshot_6.png)
 
-`git branch -d <branch_name` : 
+### **Merging a Branch into another Branch**
+
+`git merge <branch_name>`
 
 ![Images](images/Screenshot_7.png)
 
-### **Collaboration and Remote Repositories**
+`git branch -d <branch_name` : This command is used to delete a branch.
+
+## **Collaboration and Remote Repositories**
 
 ![Images](images/Screenshot_8.png)
 
